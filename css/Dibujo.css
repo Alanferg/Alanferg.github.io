@@ -55,3 +55,12 @@ body{
 				right:-140px;
 				top:0px;
 			}
+.centrado{
+	padding: 10px;
+	text-align: center;
+}
+#flecha{
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+}
