@@ -55,3 +55,12 @@ body{
 				right:-140px;
 				top:0px;
 			}
+#imagenesenlinea{
+	padding: 10px;
+	font-family: georgia;
+	font-style: italic;
+}
+.centrado{
+	padding: 10px;
+	text-align: center;
+}
